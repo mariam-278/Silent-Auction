@@ -10,7 +10,7 @@ while should_continue:
 
     players[username] = bid_price
 
-    extra_players = input("Are there other bidders? Type 'yes' or 'no'.\n ").lower()
+    extra_players = input("Are there other bidders? Type 'yes' or 'no'.\n").lower()
 
     if extra_players == "yes":
         print("\n" * 100)

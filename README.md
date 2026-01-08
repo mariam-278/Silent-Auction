@@ -1,5 +1,5 @@
 # Silent-Auction
-A simple silent auction program in python!
+A simple silent auction program in python! As I continue to improve my coding skills, today I have created a project to learn more about dictionaries and apply that knowledge.
 
 ## Summary of program
 
